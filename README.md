@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ZRSaimun.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://zrsaimun.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ZRSaimun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FZRSaimun&screen_name=ZRSaimun)
 
-## I'm a Student, Developer!!
+## I'm a Student!!
 
 - 🔭 i'm currently studying at university!
 - 🌱 I’m currently learning everything 🤣
