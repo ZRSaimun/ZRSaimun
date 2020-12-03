@@ -33,8 +33,22 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/zrsaimun/test-3h50)
+- [Csharp puzzel game](https://zrsaimun.blogspot.com/2020/03/puzzel-game.html)
+- [Cpp aiub full view project](https://zrsaimun.blogspot.com/2020/01/aiub-full-view-computer-graphics-project.html)
+- [Regular Expressions](https://zrsaimun.blogspot.com)
+- [Count](https://zrsaimun.blogspot.com)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- BlogSPOT-POST-LIST:START -->
+<details>
+  <summary>:zap: 📕 Latest Blogspot Posts</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+<!-- BlogSPOT-POST-LIST:END -->
 
 ➡️ [See more posts...](https://www.google.com/search?q=zr+saimun&oq=zr&aqs=chrome.2.69i60j69i57j69i59j35i39j69i61j69i60l3.3133j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -44,9 +58,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/JasonEtco/JasonEtco/pull/13) in [JasonEtco/JasonEtco](https://github.com/JasonEtco/JasonEtco)
+1. ❌ Closed PR [#14](https://github.com/ZRSaimun/ZRSaimun) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
 2. 🗣 Commented on [#14](https://github.com/ZRSaimun/ZRSaimun/issues) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-3. ❌ Closed PR [#7](https://github.com/ZRSaimun) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
+3. ❌ Closed PR [#7](https://github.com/ZRSaimun in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
 4. 🎉 Merged PR [#6](https://github.com/ZRSaimun/ZRSaimun/pull/6) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
