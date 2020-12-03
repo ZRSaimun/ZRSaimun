@@ -33,10 +33,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Csharp puzzel game](https://zrsaimun.blogspot.com/2020/03/puzzel-game.html)
-- [Cpp aiub full view project](https://zrsaimun.blogspot.com/2020/01/aiub-full-view-computer-graphics-project.html)
-- [Regular Expressions](https://zrsaimun.blogspot.com)
-- [Count](https://zrsaimun.blogspot.com)
+- [Test](https://dev.to/zrsaimun/test-3h50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BlogSPOT-POST-LIST:START -->
