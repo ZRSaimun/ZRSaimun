@@ -41,7 +41,7 @@
 
 <!-- BlogSPOT-POST-LIST:START -->
 <details>
-  <summary>:zap: 📕 Latest Blogspot Posts</summary>
+  <summary>:zap: Latest Blogspot Posts</summary>
   
 <!--START_SECTION:activity-->
 
