@@ -40,9 +40,12 @@
 <details>
   <summary>:zap: Latest Blogspot Posts</summary>
   
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:posts-->
+* [Calculator C# project](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;03&#x2F;calculator-c-project.html)
+* [puzzel game](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;03&#x2F;puzzel-game.html)
+* [Railway Station opengl glut project](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;01&#x2F;railway-station.html)
+* [Aiub Full View opengl](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;01&#x2F;aiub-full-view-computer-graphics-project.html)
+<!--END_SECTION:posts-->
 
 </details>
 <!-- BlogSPOT-POST-LIST:END -->
