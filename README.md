@@ -50,7 +50,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/aumlan/e-business/pull/1) in [aumlan/e-business](https://github.com/aumlan/e-business)
 2. 🗣 Commented on [#14](https://github.com/ZRSaimun/ZRSaimun/issues) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-3. ❌ Closed PR [#7](https://github.com/ZRSaimun in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
+3. ❌ Closed PR [#7](https://github.com/ZRSaimun) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
 4. 🎉 Merged PR [#6](https://github.com/ZRSaimun/ZRSaimun/pull/6) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
