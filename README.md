@@ -59,7 +59,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/JasonEtco/JasonEtco/pull/13) in [JasonEtco/JasonEtco](https://github.com/JasonEtco/JasonEtco)
 2. 🗣 Commented on [#14](https://github.com/ZRSaimun/ZRSaimun/issues) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 3. ❌ Closed PR [#7](https://github.com/ZRSaimun) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun)
 4. 🎉 Merged PR [#6](https://github.com/ZRSaimun/ZRSaimun/pull/6) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
