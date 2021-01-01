@@ -59,9 +59,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-2. 💪 Opened PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-3. 💪 Opened PR [#13](https://github.com/JasonEtco/JasonEtco/pull/13) in [JasonEtco/JasonEtco](https://github.com/JasonEtco/JasonEtco)
+1. 🎉 Merged PR [#1](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/1) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+2. 🎉 Merged PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
+3. 💪 Opened PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 4. 🎉 Merged PR [#6](https://github.com/ZRSaimun/ZRSaimun/pull/6) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
