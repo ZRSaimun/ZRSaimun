@@ -59,11 +59,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/2) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-2. 🎉 Merged PR [#1](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/1) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-3. 🎉 Merged PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-4. 💪 Opened PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. 🎉 Merged PR [#3](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/3) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+2. 🎉 Merged PR [#4](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/4) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+3. 🎉 Merged PR [#2](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/2) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+4. 🎉 Merged PR [#1](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/1) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+5. 🎉 Merged PR [#1](https://github.com/ZRSaimun/ZRSaimun/pull/1) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 <!--END_SECTION:activity-->
 
 </details>
