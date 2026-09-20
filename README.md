@@ -64,11 +64,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/7) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-2. 🎉 Merged PR [#6](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/6) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-3. 🎉 Merged PR [#5](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/5) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-4. 🎉 Merged PR [#3](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/3) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
-5. 🎉 Merged PR [#4](https://github.com/ZRSaimun/Ebusiness-Using-Laravel/pull/4) in [ZRSaimun/Ebusiness-Using-Laravel](https://github.com/ZRSaimun/Ebusiness-Using-Laravel)
+1. 🎉 Merged PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+2. 💪 Opened PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+4. 💪 Opened PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+5. 🎉 Merged PR [#1](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/1) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
 <!--END_SECTION:activity-->
 
 </details>
