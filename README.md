@@ -67,6 +67,16 @@ A quieter part of my technical curiosity is the ocean: underwater environments, 
 
 ---
 
+## Live engineering signal
+
+<img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/generated/live-engine.svg" width="100%" alt="Autonomously generated live engineering signal based on current GitHub activity" />
+
+This panel is **generated from live GitHub data**, not manually typed counters. A scheduled GitHub Actions system reads current public repositories and activity, rebuilds the SVG, and publishes a fresh signal automatically.
+
+<sub>The motion is presentation; the repository names, activity signal, language mix and sync time are generated from current GitHub data.</sub>
+
+---
+
 ## Technology constellation
 
 <div align="center">
