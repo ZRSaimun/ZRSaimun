@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="235" viewBox="0 0 1200 235" role="img" aria-labelledby="t d">
+<title id="t">Ocean research signal</title><desc id="d">A restrained animated deep-ocean scene with sonar rings, drifting particles and data nodes.</desc>
+<defs>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#071c2c"/><stop offset=".48" stop-color="#06283b"/><stop offset="1" stop-color="#03131f"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8d7448"/><stop offset=".5" stop-color="#d8c08a"/><stop offset="1" stop-color="#8d7448"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="235" rx="22" fill="url(#sea)"/>
+<path d="M0 42 Q120 19 240 42 T480 42 T720 42 T960 42 T1200 42" fill="none" stroke="#6fc6d9" stroke-opacity=".18" stroke-width="2"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 42 Q120 19 240 42 T480 42 T720 42 T960 42 T1200 42;M0 42 Q120 60 240 42 T480 42 T720 42 T960 42 T1200 42;M0 42 Q120 19 240 42 T480 42 T720 42 T960 42 T1200 42"/></path>
+<path d="M0 57 Q150 38 300 57 T600 57 T900 57 T1200 57" fill="none" stroke="#6fc6d9" stroke-opacity=".09"/>
+<g transform="translate(930 130)" fill="none" stroke="#d8c08a">
+<circle r="18" opacity=".6"/><circle r="38" opacity=".35"><animate attributeName="r" values="25;62" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0" dur="4s" repeatCount="indefinite"/></circle>
+<circle r="68" opacity=".18"><animate attributeName="r" values="40;90" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".3;0" dur="5.5s" repeatCount="indefinite"/></circle>
+<path d="M0 0 L72 -28" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></path>
+<circle r="4" fill="#d8c08a" filter="url(#g)"/>
+</g>
+<g fill="#8ad4df" opacity=".55">
+<circle cx="96" cy="180" r="2"><animate attributeName="cy" values="190;82" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="145" r="1.5"><animate attributeName="cy" values="178;64" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="315" cy="190" r="1.7"><animate attributeName="cy" values="200;100" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="182" r="1.5"><animate attributeName="cy" values="190;90" dur="9s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#8ad4df" stroke-opacity=".18" fill="none"><path d="M70 198 C190 160 290 210 410 172 S650 168 760 198"/><path d="M70 206 C210 178 320 218 455 190 S690 190 790 211"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="82" y="103" fill="#eef8fa" font-size="26" font-weight="700" letter-spacing="4">OCEAN × INTELLIGENCE</text>
+<text x="82" y="134" fill="#a9c8cf" font-size="14" letter-spacing="2">COMPUTER VISION • UNDERWATER DATA • EXPLORATION</text>
+<rect x="82" y="153" width="318" height="1" fill="url(#gold)" opacity=".7"/>
+<text x="82" y="178" fill="#839da5" font-size="12" letter-spacing="1.4">Curiosity below the surface. Evidence above the noise.</text>
+</g>
+<rect x="1" y="1" width="1198" height="233" rx="21" fill="none" stroke="#d8c08a" stroke-opacity=".18"/>
+</svg>
