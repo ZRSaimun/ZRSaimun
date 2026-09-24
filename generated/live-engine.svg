@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#06121d"/><stop offset=".55" stop-color="#082331"/><stop offset="1" stop-color="#041019"/></linearGradient><linearGradient id="a"><stop stop-color="#806a40"/><stop offset=".5" stop-color="#d8c38a"/><stop offset="1" stop-color="#806a40"/></linearGradient></defs>
+<rect width="1200" height="285" rx="22" fill="url(#b)"/>
+<text x="62" y="52" fill="#eef5f6" font-family="Arial" font-size="19" font-weight="700" letter-spacing="4">AUTONOMOUS ENGINEERING SIGNAL</text>
+<text x="62" y="78" fill="#8ea8ae" font-family="Arial" font-size="11" letter-spacing="2">LIVE GITHUB DATA • SCHEDULED SYSTEM • NO MANUAL COUNTERS</text>
+<circle cx="1110" cy="54" r="5" fill="#8bc7a4"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="1094" y="58" text-anchor="end" fill="#9bb0b5" font-family="Arial" font-size="11">ONLINE</text>
+<path d="M200 170 C250 130 340 210 390 170" fill="none" stroke="#73b9c6" stroke-opacity=".2" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="26;0" dur="3s" repeatCount="indefinite"/></path><path d="M450 170 C500 130 620 210 670 170" fill="none" stroke="#73b9c6" stroke-opacity=".2" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="26;0" dur="3s" repeatCount="indefinite"/></path><path d="M730 170 C780 130 890 210 940 170" fill="none" stroke="#73b9c6" stroke-opacity=".2" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="26;0" dur="3s" repeatCount="indefinite"/></path><g transform="translate(170 170)">
+      <circle r="29" fill="#071a24" stroke="#bfa66a" stroke-opacity=".55"/>
+      <circle r="36" fill="none" stroke="#73b9c6" stroke-opacity=".18"><animate attributeName="r" values="31;43;31" dur="4s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#d8c38a"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text y="58" text-anchor="middle" fill="#b8c8cc" font-size="11" font-family="Arial">ZRSaimun</text>
+    </g><g transform="translate(420 170)">
+      <circle r="29" fill="#071a24" stroke="#bfa66a" stroke-opacity=".55"/>
+      <circle r="36" fill="none" stroke="#73b9c6" stroke-opacity=".18"><animate attributeName="r" values="31;43;31" dur="5s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#d8c38a"><animate attributeName="opacity" values=".35;1;.35" dur="2.6999999999999997s" repeatCount="indefinite"/></circle>
+      <text y="58" text-anchor="middle" fill="#b8c8cc" font-size="11" font-family="Arial">Portfolio.github.io</text>
+    </g><g transform="translate(700 170)">
+      <circle r="29" fill="#071a24" stroke="#bfa66a" stroke-opacity=".55"/>
+      <circle r="36" fill="none" stroke="#73b9c6" stroke-opacity=".18"><animate attributeName="r" values="31;43;31" dur="6s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#d8c38a"><animate attributeName="opacity" values=".35;1;.35" dur="3.0s" repeatCount="indefinite"/></circle>
+      <text y="58" text-anchor="middle" fill="#b8c8cc" font-size="11" font-family="Arial">zr-saimun-portfolio</text>
+    </g><g transform="translate(970 170)">
+      <circle r="29" fill="#071a24" stroke="#bfa66a" stroke-opacity=".55"/>
+      <circle r="36" fill="none" stroke="#73b9c6" stroke-opacity=".18"><animate attributeName="r" values="31;43;31" dur="7s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#d8c38a"><animate attributeName="opacity" values=".35;1;.35" dur="3.3s" repeatCount="indefinite"/></circle>
+      <text y="58" text-anchor="middle" fill="#b8c8cc" font-size="11" font-family="Arial">Hospital-Management-Sy</text>
+    </g>
+<line x1="62" y1="235" x2="1138" y2="235" stroke="url(#a)" stroke-opacity=".35"/>
+<text x="62" y="260" fill="#8ea8ae" font-family="Arial" font-size="11">ACTIVE REPOS  19</text>
+<text x="300" y="260" fill="#8ea8ae" font-family="Arial" font-size="11">LAST SIGNAL  PUSH</text>
+<text x="560" y="260" fill="#8ea8ae" font-family="Arial" font-size="11">JAVASCRIPT • BLADE • PYTHON • HTML • PHP</text>
+<text x="1138" y="260" text-anchor="end" fill="#6f858a" font-family="Arial" font-size="10">SYNC 24 Sep 2026 · 12:31 UTC</text>
+</svg>
