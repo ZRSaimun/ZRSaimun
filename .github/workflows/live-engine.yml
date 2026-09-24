@@ -33,4 +33,6 @@ jobs:
           git add generated/live-engine.svg generated/research-constellation.svg
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "chore: refresh live engineering signal"
-          git push
+          # Rebase onto any README/activity update that landed while this job was rendering.
+          git pull --rebase origin master
+          git push origin HEAD:master
