@@ -8,6 +8,7 @@ on:
     branches: [master]
     paths:
       - "scripts/live_engine.py"
+      - "scripts/research_constellation.py"
       - ".github/workflows/live-engine.yml"
 
 permissions:
@@ -22,12 +23,14 @@ jobs:
       - name: Render live profile signal
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/live_engine.py
+        run: |
+          python scripts/live_engine.py
+          python scripts/research_constellation.py
       - name: Publish changed signal
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/live-engine.svg
+          git add generated/live-engine.svg generated/research-constellation.svg
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "chore: refresh live engineering signal"
           git push
