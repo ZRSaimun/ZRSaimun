@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">ZR Saimun cinematic GitHub banner</title>
+  <desc id="desc">A dark cosmic scene with animated orbit rings, stars and glowing technology nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="48%" stop-color="#0b1630"/>
+      <stop offset="100%" stop-color="#07101f"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.95"/>
+      <stop offset="42%" stop-color="#2f81f7" stop-opacity="0.48"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="600" cy="160" r="220" fill="url(#core)" opacity="0.17"/>
+
+  <g fill="#8cbbff">
+    <circle cx="56" cy="58" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="112" cy="226" r="1"><animate attributeName="opacity" values=".15;.8;.15" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="188" cy="88" r="1.3"><animate attributeName="opacity" values=".2;1;.2" dur="5.1s" repeatCount="indefinite"/></circle>
+    <circle cx="254" cy="268" r="1"><animate attributeName="opacity" values=".15;.85;.15" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="332" cy="42" r="1.2"><animate attributeName="opacity" values=".2;.95;.2" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="208" r="1"><animate attributeName="opacity" values=".1;.75;.1" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="494" cy="76" r="1.2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="54" r="1.2"><animate attributeName="opacity" values=".2;1;.2" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="782" cy="244" r="1"><animate attributeName="opacity" values=".15;.85;.15" dur="5.6s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="74" r="1.3"><animate attributeName="opacity" values=".2;1;.2" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="958" cy="268" r="1"><animate attributeName="opacity" values=".15;.8;.15" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="92" r="1.2"><animate attributeName="opacity" values=".2;.95;.2" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1146" cy="214" r="1.4"><animate attributeName="opacity" values=".2;1;.2" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="none" stroke="#58a6ff" stroke-opacity=".24">
+    <ellipse cx="600" cy="160" rx="360" ry="104"/>
+    <ellipse cx="600" cy="160" rx="270" ry="76" stroke-opacity=".18"/>
+    <ellipse cx="600" cy="160" rx="455" ry="132" stroke-opacity=".12"/>
+  </g>
+
+  <g transform="translate(600 160)">
+    <g>
+      <circle cx="360" cy="0" r="7" fill="#58a6ff" filter="url(#glow)"/>
+      <circle cx="360" cy="0" r="18" fill="#58a6ff" opacity=".12" filter="url(#soft)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="-270" cy="0" r="5.5" fill="#7ee787" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="11s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="455" cy="0" r="4.5" fill="#d2a8ff" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="23s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g opacity=".95">
+    <circle cx="168" cy="160" r="54" fill="#0d1b33" stroke="#58a6ff" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="168" cy="160" r="43" fill="none" stroke="#58a6ff" stroke-opacity=".18"/>
+    <text x="168" y="174" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" text-anchor="middle" letter-spacing="3">ZR</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="142" fill="#f0f6fc" font-size="42" font-weight="700" text-anchor="middle" letter-spacing="8">ZR SAIMUN</text>
+    <text x="600" y="180" fill="#8cbbff" font-size="16" font-weight="600" text-anchor="middle" letter-spacing="4">CYBERSECURITY • AI RESEARCH • CREATIVE DEVELOPMENT</text>
+    <text x="600" y="210" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">CODE × RESEARCH × INTERACTIVE WORLDS</text>
+  </g>
+
+  <rect x="-380" y="0" width="300" height="320" fill="url(#scan)" opacity=".8">
+    <animate attributeName="x" values="-380;1280" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#58a6ff" stroke-opacity=".16"/>
+</svg>
