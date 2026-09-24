@@ -17,13 +17,12 @@
 
 ## About me
 
-I build at the intersection of **cybersecurity, artificial intelligence, research and interactive web engineering**. My work ranges from technical research and secure systems to experimental browser experiences that turn a portfolio into something you can explore.
+I work across **cybersecurity, AI/computer vision, research and interactive engineering**. This profile is organised around the work itself — repositories, experiments, research systems and things that can be opened, inspected and tested.
 
-- Cybersecurity engineer and researcher
-- AI / machine-learning work with a strong interest in computer vision
-- Creative web development, WebGL and interactive 3D experiences
-- MSc Cybersecurity & Forensic IT
-- Based in London, United Kingdom
+- Security engineering and technical research
+- AI / computer vision, including underwater visual data
+- Interactive engineering with WebGL / Three.js
+- Software projects from prototype to deployed experience
 
 ---
 
@@ -55,6 +54,16 @@ These are the **two portfolio projects** that define the visual direction of thi
 </td>
 </tr>
 </table>
+
+---
+
+## Ocean × Intelligence
+
+<img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/assets/ocean-intelligence.svg" width="100%" alt="Animated ocean intelligence scene" />
+
+A quieter part of my technical curiosity is the ocean: underwater environments, marine visual data and the engineering problems involved in understanding what cameras and sensors see below the surface.
+
+**Evidence in the work:** underwater computer-vision research, dataset experimentation and model evaluation — rather than a long list of claims.
 
 ---
 
@@ -139,6 +148,6 @@ These are the **two portfolio projects** that define the visual direction of thi
 
 ### Explore. Build. Research. Repeat.
 
-<sub>Profile README designed as the bridge between the cinematic portfolio and the original cosmic portfolio.</sub>
+<sub>Code, research and experiments first. The visuals are only the interface.</sub>
 
 </div>
