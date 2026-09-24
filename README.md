@@ -67,6 +67,16 @@ A quieter part of my technical curiosity is the ocean: underwater environments, 
 
 ---
 
+## Automated research constellation
+
+<img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/generated/research-constellation.svg" width="100%" alt="Automated research constellation connecting cybersecurity, AI, computer vision, ocean intelligence and software engineering" />
+
+The constellation is rebuilt automatically from **public repository metadata**. Its domain signals come from repository names, descriptions and languages, so the visual evidence changes as the underlying work changes.
+
+<sub>Cybersecurity ↔ AI/ML ↔ Computer Vision ↔ Ocean Intelligence ↔ Software Engineering. Animated presentation, data-derived signals.</sub>
+
+---
+
 ## Live engineering signal
 
 <img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/generated/live-engine.svg" width="100%" alt="Autonomously generated live engineering signal based on current GitHub activity" />
