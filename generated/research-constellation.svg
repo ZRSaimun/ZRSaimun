@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+<defs><radialGradient id="bg"><stop stop-color="#0a2a37"/><stop offset=".58" stop-color="#061a25"/><stop offset="1" stop-color="#030e16"/></radialGradient><radialGradient id="core"><stop stop-color="#d8c38a" stop-opacity=".32"/><stop offset="1" stop-color="#d8c38a" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="470" rx="24" fill="url(#bg)"/>
+<text x="58" y="50" fill="#eef6f7" font-family="Arial" font-size="19" font-weight="700" letter-spacing="4">RESEARCH CONSTELLATION</text>
+<text x="58" y="76" fill="#829da3" font-family="Arial" font-size="11" letter-spacing="2">AUTOMATIC DOMAIN SIGNALS FROM PUBLIC REPOSITORY METADATA</text>
+<g transform="translate(600 138)"><circle r="82" fill="url(#core)"><animate attributeName="r" values="72;88;72" dur="5s" repeatCount="indefinite"/></circle><circle r="48" fill="#081b25" stroke="#d5bf86" stroke-opacity=".7"/><circle r="7" fill="#e0cb94"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" repeatCount="indefinite"/></circle><text y="5" text-anchor="middle" fill="#edf5f6" font-family="Arial" font-size="10" letter-spacing="2">RESEARCH CORE</text></g>
+<path d="M600 188 Q600 250 310 225" fill="none" stroke="#75b9c5" stroke-opacity=".18" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="3.4s" repeatCount="indefinite"/></path><path d="M600 188 Q600 250 455 345" fill="none" stroke="#75b9c5" stroke-opacity=".18" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="3.8s" repeatCount="indefinite"/></path><path d="M600 188 Q600 250 745 345" fill="none" stroke="#75b9c5" stroke-opacity=".18" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="4.2s" repeatCount="indefinite"/></path><path d="M600 188 Q600 250 890 225" fill="none" stroke="#75b9c5" stroke-opacity=".18" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="4.6s" repeatCount="indefinite"/></path>
+<g transform="translate(600 138)">
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.42"/>
+    <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/></circle>
+    <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">CYBERSECURITY</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">zr-saimun-portfolio</text>
+    </g><g transform="translate(310 225)">
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.52"/>
+    <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="2.4000000000000004s" repeatCount="indefinite"/></circle>
+    <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">AI / ML</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">ZRSaimun • zr-saimun-portfolio</text>
+    </g><g transform="translate(455 345)">
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.35"/>
+    <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">COMPUTER VISION</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">metadata signal pending</text>
+    </g><g transform="translate(745 345)">
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.35"/>
+    <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="6.1s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="2.8000000000000003s" repeatCount="indefinite"/></circle>
+    <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">OCEAN INTELLIGENCE</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">metadata signal pending</text>
+    </g><g transform="translate(890 225)">
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="1.00"/>
+    <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="6.8s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="3.0s" repeatCount="indefinite"/></circle>
+    <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">SOFTWARE ENGINEERING</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">ZRSaimun • Portfolio.github.io</text>
+    </g>
+<line x1="58" y1="424" x2="1142" y2="424" stroke="#bda36a" stroke-opacity=".24"/>
+<text x="58" y="448" fill="#718c92" font-family="Arial" font-size="10">SIGNAL STRENGTH IS DERIVED FROM REPOSITORY NAMES, DESCRIPTIONS &amp; LANGUAGES</text>
+<text x="1142" y="448" text-anchor="end" fill="#61787e" font-family="Arial" font-size="10">SYNC 24 Sep 2026 · 13:02 UTC</text>
+</svg>
