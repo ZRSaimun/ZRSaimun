@@ -22,7 +22,6 @@ I build at the intersection of **cybersecurity, artificial intelligence, researc
 - Cybersecurity engineer and researcher
 - AI / machine-learning work with a strong interest in computer vision
 - Creative web development, WebGL and interactive 3D experiences
-- MSc Computer Science — **Distinction**
 - MSc Cybersecurity & Forensic IT
 - Based in London, United Kingdom
 
