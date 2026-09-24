@@ -12,7 +12,7 @@
     <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">CYBERSECURITY</text>
     <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">zr-saimun-portfolio</text>
     </g><g transform="translate(310 225)">
-    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.52"/>
+    <circle r="42" fill="#071923" stroke="#bda36a" stroke-opacity="0.53"/>
     <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="4.7s" repeatCount="indefinite"/></circle>
     <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="2.4000000000000004s" repeatCount="indefinite"/></circle>
     <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">AI / ML</text>
@@ -34,9 +34,9 @@
     <circle r="50" fill="none" stroke="#6fb7c4" stroke-opacity=".14"><animate attributeName="r" values="45;55;45" dur="6.8s" repeatCount="indefinite"/></circle>
     <circle r="5" fill="#d6c18b"><animate attributeName="opacity" values=".35;1;.35" dur="3.0s" repeatCount="indefinite"/></circle>
     <text y="72" text-anchor="middle" fill="#d9e5e7" font-family="Arial" font-size="12" font-weight="700">SOFTWARE ENGINEERING</text>
-    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">ZRSaimun • Portfolio.github.io</text>
+    <text y="90" text-anchor="middle" fill="#718c92" font-family="Arial" font-size="9">ZRSaimun • zr-saimun-portfolio</text>
     </g>
 <line x1="58" y1="424" x2="1142" y2="424" stroke="#bda36a" stroke-opacity=".24"/>
 <text x="58" y="448" fill="#718c92" font-family="Arial" font-size="10">SIGNAL STRENGTH IS DERIVED FROM REPOSITORY NAMES, DESCRIPTIONS &amp; LANGUAGES</text>
-<text x="1142" y="448" text-anchor="end" fill="#61787e" font-family="Arial" font-size="10">SYNC 24 Sep 2026 · 19:08 UTC</text>
+<text x="1142" y="448" text-anchor="end" fill="#61787e" font-family="Arial" font-size="10">SYNC 24 Sep 2026 · 23:52 UTC</text>
 </svg>
