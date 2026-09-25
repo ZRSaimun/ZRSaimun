@@ -133,9 +133,9 @@ This panel is **generated from live GitHub data**, not manually typed counters. 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ZRSaimun/ZRSaimun/pull/2) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
 2. 💪 Opened PR [#2](https://github.com/ZRSaimun/ZRSaimun/pull/2) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-3. 🎉 Merged PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
-4. 💪 Opened PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
-5. 🎉 Merged PR [#1](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/1) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+3. 🎉 Merged PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+4. 💪 Opened PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+5. 🎉 Merged PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
 <!--END_SECTION:activity-->
 
 ---
