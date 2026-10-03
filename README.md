@@ -57,6 +57,16 @@ These are the **two portfolio projects** that define the visual direction of thi
 
 ---
 
+## Living Planet • Ocean System
+
+<img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/assets/living-planet-ocean.svg" width="100%" alt="Animated living planet and ocean research system" />
+
+A visual research path from **planet-scale observation to underwater computer vision**: Earth → ocean → coral reef → machine perception → environmental signal.
+
+<sub>The coral-vision stage reflects the research direction in underwater colour consistency, boundary preservation and semantic segmentation. The animation is a visual system, not a claim of live planetary sensing.</sub>
+
+---
+
 ## Ocean × Intelligence
 
 <img src="https://raw.githubusercontent.com/ZRSaimun/ZRSaimun/master/assets/ocean-intelligence.svg" width="100%" alt="Animated ocean intelligence scene" />

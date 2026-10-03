@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <radialGradient id="space"><stop stop-color="#0b2935"/><stop offset=".58" stop-color="#06151f"/><stop offset="1" stop-color="#02080e"/></radialGradient>
+ <radialGradient id="earth"><stop stop-color="#4f9db1"/><stop offset=".55" stop-color="#176079"/><stop offset="1" stop-color="#092b40"/></radialGradient>
+ <linearGradient id="gold"><stop stop-color="#806a40"/><stop offset=".5" stop-color="#dbc78f"/><stop offset="1" stop-color="#806a40"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#space)"/>
+<g opacity=".45" fill="#b9e2e8">
+ <circle cx="94" cy="88" r="1"/><circle cx="181" cy="52" r="1.2"/><circle cx="1050" cy="86" r="1"/><circle cx="1110" cy="162" r=".8"/><circle cx="760" cy="54" r="1"/>
+</g>
+<text x="55" y="50" fill="#edf6f7" font-family="Arial" font-size="19" font-weight="700" letter-spacing="4">LIVING PLANET • OCEAN SYSTEM</text>
+<text x="55" y="76" fill="#829da3" font-family="Arial" font-size="11" letter-spacing="2">EARTH → OCEAN → REEF → VISION → ENVIRONMENTAL SIGNAL</text>
+
+<g transform="translate(205 224)">
+ <circle r="91" fill="none" stroke="#6eb5c4" stroke-opacity=".12"><animate attributeName="r" values="86;100;86" dur="6s" repeatCount="indefinite"/></circle>
+ <circle r="72" fill="url(#earth)" stroke="#a9d5dd" stroke-opacity=".45"/>
+ <path d="M-52-18 Q-22-48 4-29 T50-8 Q32 5 42 28 Q7 18-8 48 Q-29 22-50 15Z" fill="#5f8f6d" opacity=".8"/>
+ <ellipse rx="82" ry="25" fill="none" stroke="#d9c58e" stroke-opacity=".28" transform="rotate(-18)"><animateTransform attributeName="transform" type="rotate" from="-18" to="342" dur="14s" repeatCount="indefinite"/></ellipse>
+ <circle r="4" cx="78" fill="#dec98f" filter="url(#glow)"/>
+</g>
+<text x="205" y="337" text-anchor="middle" fill="#dbe8ea" font-family="Arial" font-size="12" font-weight="700">PLANET</text>
+
+<path d="M300 224 C350 180 375 180 420 224" fill="none" stroke="#74b8c4" stroke-opacity=".35" stroke-dasharray="7 10"><animate attributeName="stroke-dashoffset" values="34;0" dur="3s" repeatCount="indefinite"/></path>
+<path d="M525 224 C570 180 600 180 645 224" fill="none" stroke="#74b8c4" stroke-opacity=".35" stroke-dasharray="7 10"><animate attributeName="stroke-dashoffset" values="34;0" dur="3.4s" repeatCount="indefinite"/></path>
+<path d="M750 224 C795 180 825 180 870 224" fill="none" stroke="#74b8c4" stroke-opacity=".35" stroke-dasharray="7 10"><animate attributeName="stroke-dashoffset" values="34;0" dur="3.8s" repeatCount="indefinite"/></path>
+
+<g transform="translate(470 224)">
+ <circle r="52" fill="#071d29" stroke="#72b6c3" stroke-opacity=".55"/>
+ <path d="M-33 5 Q-18-9 0 5 T33 5 M-33 17 Q-18 3 0 17 T33 17" fill="none" stroke="#75c2d1" stroke-width="3" opacity=".75"><animate attributeName="d" values="M-33 5 Q-18-9 0 5 T33 5 M-33 17 Q-18 3 0 17 T33 17;M-33 9 Q-18-5 0 9 T33 9 M-33 13 Q-18-1 0 13 T33 13;M-33 5 Q-18-9 0 5 T33 5 M-33 17 Q-18 3 0 17 T33 17" dur="4s" repeatCount="indefinite"/></path>
+</g>
+<text x="470" y="302" text-anchor="middle" fill="#dbe8ea" font-family="Arial" font-size="12" font-weight="700">OCEAN</text>
+<text x="470" y="320" text-anchor="middle" fill="#6f8e95" font-family="Arial" font-size="9">OBSERVE • MEASURE</text>
+
+<g transform="translate(695 224)">
+ <circle r="52" fill="#071d29" stroke="#bca36b" stroke-opacity=".55"/>
+ <path d="M-25 25 Q-20 3-8-6 M-8-6 Q-18-18-12-31 M-8-6 Q5-18 4-33 M4 19 Q9-5 22-13 M22-13 Q18-26 27-32" fill="none" stroke="#d2bd84" stroke-width="4" stroke-linecap="round"/>
+ <circle r="44" fill="none" stroke="#6eb5c4" stroke-opacity=".13"><animate attributeName="r" values="40;50;40" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="695" y="302" text-anchor="middle" fill="#dbe8ea" font-family="Arial" font-size="12" font-weight="700">CORAL REEF</text>
+<text x="695" y="320" text-anchor="middle" fill="#6f8e95" font-family="Arial" font-size="9">UNDERWATER HABITAT</text>
+
+<g transform="translate(920 224)">
+ <rect x="-49" y="-38" width="98" height="76" rx="12" fill="#071d29" stroke="#72b6c3" stroke-opacity=".55"/>
+ <path d="M-34-20 H34 V20 H-34Z M-12-20 V20 M12-20 V20 M-34 0 H34" fill="none" stroke="#75b9c6" stroke-opacity=".24"/>
+ <path d="M-31 17 Q-16-8-2 3 T31-14" fill="none" stroke="#dec98f" stroke-width="2.5" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="1 80;80 1;1 80" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<text x="920" y="302" text-anchor="middle" fill="#dbe8ea" font-family="Arial" font-size="12" font-weight="700">COMPUTER VISION</text>
+<text x="920" y="320" text-anchor="middle" fill="#6f8e95" font-family="Arial" font-size="9">COLOUR • BOUNDARIES • SEGMENTATION</text>
+
+<circle cx="1085" cy="224" r="32" fill="#071d29" stroke="#8bc7a4" stroke-opacity=".5"/>
+<circle cx="1085" cy="224" r="5" fill="#8bc7a4"><animate attributeName="opacity" values=".25;1;.25" dur="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="1085" cy="224" r="19" fill="none" stroke="#8bc7a4" stroke-opacity=".25"><animate attributeName="r" values="8;30;8" dur="3.5s" repeatCount="indefinite"/></circle>
+<text x="1085" y="302" text-anchor="middle" fill="#dbe8ea" font-family="Arial" font-size="12" font-weight="700">SIGNAL</text>
+
+<line x1="55" y1="365" x2="1145" y2="365" stroke="url(#gold)" stroke-opacity=".32"/>
+<text x="55" y="391" fill="#78939a" font-family="Arial" font-size="10" letter-spacing="1.2">VISUAL RESEARCH PATH • UNDERWATER MONITORING → MACHINE PERCEPTION → BETTER ENVIRONMENTAL OBSERVATION</text>
+</svg>
