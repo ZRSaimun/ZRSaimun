@@ -7,9 +7,12 @@ on:
   push:
     branches: [master]
     paths:
-      - "scripts/live_engine.py"
-      - "scripts/research_constellation.py"
+      - "scripts/**"
       - ".github/workflows/live-engine.yml"
+
+concurrency:
+  group: live-profile-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
