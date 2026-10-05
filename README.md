@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Cybersecurity+Engineer+%E2%80%A2+Researcher;AI%2FML+%E2%80%A2+Computer+Vision+%E2%80%A2+Security;Creative+Developer+%E2%80%A2+Interactive+Web+Experiences;Building+systems+that+connect+code%2C+research+and+design" alt="Animated typing introduction" />
 </a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ZRSaimun&style=for-the-badge&color=0e75b6)](https://github.com/ZRSaimun)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-ZRSaimun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZRSaimun)
 [![GitHub followers](https://img.shields.io/github/followers/ZRSaimun?style=for-the-badge&logo=github)](https://github.com/ZRSaimun?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZR%20Saimun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zr-saimun/)
 [![Email](https://img.shields.io/badge/Email-zrsaimun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zrsaimun@gmail.com)
