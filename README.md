@@ -141,11 +141,11 @@ This panel is **generated from live GitHub data**, not manually typed counters. 
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ZRSaimun/ZRSaimun/pull/2) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-2. 💪 Opened PR [#2](https://github.com/ZRSaimun/ZRSaimun/pull/2) in [ZRSaimun/ZRSaimun](https://github.com/ZRSaimun/ZRSaimun)
-3. 🎉 Merged PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
-4. 💪 Opened PR [#3](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/3) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
-5. 🎉 Merged PR [#2](https://github.com/ZRSaimun/zr-saimun-portfolio/pull/2) in [ZRSaimun/zr-saimun-portfolio](https://github.com/ZRSaimun/zr-saimun-portfolio)
+1. 💪 Opened PR [#10](https://github.com/ZRSaimun/trading-strategy-lab/pull/10) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
+2. 🎉 Merged PR [#9](https://github.com/ZRSaimun/trading-strategy-lab/pull/9) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
+3. 💪 Opened PR [#9](https://github.com/ZRSaimun/trading-strategy-lab/pull/9) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
+4. 🎉 Merged PR [#8](https://github.com/ZRSaimun/trading-strategy-lab/pull/8) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
+5. 🎉 Merged PR [#7](https://github.com/ZRSaimun/trading-strategy-lab/pull/7) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
 <!--END_SECTION:activity-->
 
 ---
