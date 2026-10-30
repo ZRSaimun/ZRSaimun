@@ -141,11 +141,11 @@ This panel is **generated from live GitHub data**, not manually typed counters. 
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/ZRSaimun/trading-strategy-lab/pull/26#issuecomment-6519580263) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
-2. 🗣 Commented on [#26](https://github.com/ZRSaimun/trading-strategy-lab/pull/26#issuecomment-6515038509) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
-3. 🗣 Commented on [#26](https://github.com/ZRSaimun/trading-strategy-lab/pull/26#issuecomment-6518473186) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
-4. 💪 Opened PR [#3](https://github.com/ZRSaimun/bazar-tulona-bd/pull/3) in [ZRSaimun/bazar-tulona-bd](https://github.com/ZRSaimun/bazar-tulona-bd)
-5. 💪 Opened PR [#4](https://github.com/ZRSaimun/kagoj-sathi-bd/pull/4) in [ZRSaimun/kagoj-sathi-bd](https://github.com/ZRSaimun/kagoj-sathi-bd)
+1. 💪 Opened PR [#5](https://github.com/ZRSaimun/kajer-setu-bd/pull/5) in [ZRSaimun/kajer-setu-bd](https://github.com/ZRSaimun/kajer-setu-bd)
+2. 💪 Opened PR [#4](https://github.com/ZRSaimun/kajer-setu-bd/pull/4) in [ZRSaimun/kajer-setu-bd](https://github.com/ZRSaimun/kajer-setu-bd)
+3. 🎉 Merged PR [#6](https://github.com/ZRSaimun/kagoj-sathi-bd/pull/6) in [ZRSaimun/kagoj-sathi-bd](https://github.com/ZRSaimun/kagoj-sathi-bd)
+4. 💪 Opened PR [#5](https://github.com/ZRSaimun/bazar-tulona-bd/pull/5) in [ZRSaimun/bazar-tulona-bd](https://github.com/ZRSaimun/bazar-tulona-bd)
+5. 🗣 Commented on [#26](https://github.com/ZRSaimun/trading-strategy-lab/pull/26#issuecomment-6521582906) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
 <!--END_SECTION:activity-->
 
 ---
