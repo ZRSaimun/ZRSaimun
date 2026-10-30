@@ -141,11 +141,11 @@ This panel is **generated from live GitHub data**, not manually typed counters. 
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/ZRSaimun/kajer-setu-bd/pull/5) in [ZRSaimun/kajer-setu-bd](https://github.com/ZRSaimun/kajer-setu-bd)
-2. 💪 Opened PR [#4](https://github.com/ZRSaimun/kajer-setu-bd/pull/4) in [ZRSaimun/kajer-setu-bd](https://github.com/ZRSaimun/kajer-setu-bd)
-3. 🎉 Merged PR [#6](https://github.com/ZRSaimun/kagoj-sathi-bd/pull/6) in [ZRSaimun/kagoj-sathi-bd](https://github.com/ZRSaimun/kagoj-sathi-bd)
-4. 💪 Opened PR [#5](https://github.com/ZRSaimun/bazar-tulona-bd/pull/5) in [ZRSaimun/bazar-tulona-bd](https://github.com/ZRSaimun/bazar-tulona-bd)
-5. 🗣 Commented on [#26](https://github.com/ZRSaimun/trading-strategy-lab/pull/26#issuecomment-6521582906) in [ZRSaimun/trading-strategy-lab](https://github.com/ZRSaimun/trading-strategy-lab)
+1. 🎉 Merged PR [#3](https://github.com/ZRSaimun/kajer-setu-bd/pull/3) in [ZRSaimun/kajer-setu-bd](https://github.com/ZRSaimun/kajer-setu-bd)
+2. 🎉 Merged PR [#7](https://github.com/ZRSaimun/bonna-sotorko-bd/pull/7) in [ZRSaimun/bonna-sotorko-bd](https://github.com/ZRSaimun/bonna-sotorko-bd)
+3. 💪 Opened PR [#7](https://github.com/ZRSaimun/bonna-sotorko-bd/pull/7) in [ZRSaimun/bonna-sotorko-bd](https://github.com/ZRSaimun/bonna-sotorko-bd)
+4. 🎉 Merged PR [#4](https://github.com/ZRSaimun/bonna-sotorko-bd/pull/4) in [ZRSaimun/bonna-sotorko-bd](https://github.com/ZRSaimun/bonna-sotorko-bd)
+5. 🎉 Merged PR [#6](https://github.com/ZRSaimun/bonna-sotorko-bd/pull/6) in [ZRSaimun/bonna-sotorko-bd](https://github.com/ZRSaimun/bonna-sotorko-bd)
 <!--END_SECTION:activity-->
 
 ---
